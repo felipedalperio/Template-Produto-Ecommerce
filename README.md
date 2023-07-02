@@ -12,4 +12,5 @@ Abaixo, estão as imagens de demonstração do projeto:
 ![2](https://github.com/felipedalperio/Template-Produto-Ecommerce/assets/45234913/b72b0efe-024d-4777-a518-ff4dec899ecf)
 
 >> Celulares:
-![3](https://github.com/felipedalperio/Template-Produto-Ecommerce/assets/45234913/d08faa60-eaa8-44d0-8c7d-44427f3d1c39)
+![3](https://github.com/felipedalperio/Template-Produto-Ecommerce/assets/45234913/c5e13aed-e6f3-4672-93f5-62225c07a8f5)
+
